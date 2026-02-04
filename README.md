@@ -41,6 +41,15 @@ Implemented multiple classification models including:
  - Support Vector Machine
  - Compared models using accuracy, precision, recall, and F1-score
  - Selected models based on both performance and interpretability
+
+<br>
+<img src="https://github.com/Ashwini07-cmd/interpretable-fairness-aware-ml-titanic/blob/350afc75daeb4dfdcf96d396b6860e609bfef39f/Random%20forest%20Feature%20Engineering.png" alt="Image Description" Width="600">
+<br>
+
+
+<br>
+<img src="https://github.com/Ashwini07-cmd/interpretable-fairness-aware-ml-titanic/blob/350afc75daeb4dfdcf96d396b6860e609bfef39f/Logistic%20Regression%20Coefficients-Titanic%20Survival%20Prediction.png" alt="Image Description" Width="600">
+<br>
  - 
  5️⃣ Interpretability Analysis
  - Analyzed model coefficients to identify influential features
